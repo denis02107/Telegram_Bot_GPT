@@ -1,4 +1,5 @@
 # pip install aiogram
+# pip install openai
 import openai
 from aiogram import Bot, types
 from aiogram.dispatcher import Dispatcher
